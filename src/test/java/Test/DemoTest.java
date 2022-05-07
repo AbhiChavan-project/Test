@@ -27,5 +27,10 @@ public class DemoTest {
 	public void Test4() {
 		System.out.println("Hi");
 	}
+	
+	@Test
+	public void sample() {
+		System.out.println("Sample");
+	}
 
 }
